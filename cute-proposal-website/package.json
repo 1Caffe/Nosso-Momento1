@@ -1,0 +1,16 @@
+{
+  "name": "cute-proposal-website",
+  "version": "1.0.0",
+  "description": "A cute proposal website with interactive buttons.",
+  "main": "src/index.html",
+  "scripts": {
+    "start": "open src/index.html"
+  },
+  "keywords": [
+    "proposal",
+    "interactive",
+    "cute"
+  ],
+  "author": "Your Name",
+  "license": "MIT"
+}
