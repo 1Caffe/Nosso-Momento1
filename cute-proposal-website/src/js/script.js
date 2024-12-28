@@ -12,6 +12,6 @@ document.addEventListener('DOMContentLoaded', function() {
     });
 
     noButton.addEventListener('click', function() {
-        message.textContent = 'Oh no! Maybe next time!';
+        message.textContent = 'AH, que pena, mas você não tem escolha!';
     });
 });
